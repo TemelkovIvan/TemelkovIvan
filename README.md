@@ -20,7 +20,7 @@
 <img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Java" width="20px" src="https://static.jobs.bg/mobile/images/skills/java.png?v=1.0.0" />
-[<img align="left" alt="Spring" width="20px" src="https://static.jobs.bg/mobile/images/skills/spring.png?v=1.0.0" />][spring]
+<img align="left" alt="Spring" width="20px" src="https://static.jobs.bg/mobile/images/skills/spring.png?v=1.0.0" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
