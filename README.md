@@ -3,9 +3,9 @@
 ## I'm a Husband, Father and a Developer!!
 
 - 🔭 I’m JAVA Enthusiast and at heart Developer ♥️
-- 🌱 I’m currently learning JAVA, Spring Boot, SQL, MySQL, HTML, CSS, SCSS, JQuery, Bootstrap, AJAX, WEB, JPA, JDBC, Junit, Spring MVC, JavaScript .. and everything a developer needs 🤣
+- 🌱 I’m currently learning JAVA, Spring Boot, SQL, MySQL, HTML, CSS, SCSS, JQuery, Bootstrap, AJAX, WEB, JPA, JDBC, Junit, Spring MVC, JavaScript .. and everything a developer needs 😊
 - 🥅 2022 Goals: To work what excites me a hell of a lot 💻
-- ⚡ Fun fact: Fun fact: I love taking pictures with my camera 📷
+- ⚡ Fun fact: I love taking pictures with my camera 📷
 - 📫 How to reach me ivan_temelkow@abv.bg 📧
 
 
